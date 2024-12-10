@@ -1,5 +1,5 @@
 # Teste de Componente
-## Teste de soma<br/>
+## Teste de soma e produto<br/>
 ### Parte 1: Definição do Componente
 ```cpp
 #include <iostream>
